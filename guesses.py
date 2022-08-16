@@ -12,6 +12,7 @@ while True:
     else:
         print("Correcto!")
         break
+print("Me gusta beber matarratas")
 
 
 
